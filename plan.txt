@@ -1,0 +1,39 @@
+header
+Main
+    HOME
+    ABOUT
+    SKILLS 
+    EDUCATION & EXPERIENCE
+    PORTFOLIO
+    CONTACT US
+footer
+
+
+SKILLS
+
+card----> software SKILLS
+card -> Designs
+
+Timeline Designs
+
+Educations      EXPERIENCE
+
+line - date
+card- Title
+        Institute
+        Details - unfolded
+
+PORTFOLIO
+__________
+
+<   >
+
+
+
+
+
+Contact US
+left            Right
+Address         Form -> Name, Subject, Email, Message
+Email
+Cell
