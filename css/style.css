@@ -400,7 +400,7 @@ img{
     width: 600px;
     align-content: center;
     text-align: center;
-    transform: translateX(-4rem);
+    /* transform: translateX(-4rem); */
 }
 
 .home__welcome{
@@ -1335,6 +1335,10 @@ img{
       margin-top: var(--mb-0-25);
     }
 
+    .home__data{
+      transform: translateX(-0.8rem);
+    }
+
     .home__scroll-mouse{
       margin-top: var(--mb-0-25);
     }
@@ -1344,6 +1348,10 @@ img{
     }
     .qualification__data{
       gap: 0.5rem;
+    }
+
+    .qualification__start-icon{
+      transform: translateY(1.2rem);
     }
 
     .contact_mail{
@@ -1371,6 +1379,7 @@ img{
       }
       .home__data{
         grid-column: initial;
+        transform: translateX(-1rem);
       }
 
       .about__container,
@@ -1536,6 +1545,11 @@ img{
 
       .home__social{
         transform: translateX(-7.5rem);
+      }
+
+      .home__data{
+        grid-column: initial;
+        transform: translateX(-4rem);
       }
 
       .contact__form{
